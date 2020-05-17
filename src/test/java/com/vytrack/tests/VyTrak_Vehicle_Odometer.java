@@ -27,6 +27,8 @@ public class VyTrak_Vehicle_Odometer extends TestBase{
         Odo_Cre_Page.OdoValue.sendKeys("1000");
         Odo_Cre_Page.Date.click();
 
+        // TEST SINAN CODE
+
         Sleep.waitSecond(5);
 
 
