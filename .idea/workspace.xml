@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="301ede2f-8096-4621-8e4f-cf4a759bfe07" name="Default Changelist" comment="" />
+    <list default="true" id="301ede2f-8096-4621-8e4f-cf4a759bfe07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GroupOneVyTrackProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1c1xsntrvhwtF29UID9La6lFrF4" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="VyTrak_Vehicle_Odometer.test1" type="TestNG" temporary="true" nameIsGenerated="true">
@@ -62,6 +70,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1589718612885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589718612885" />
     <state width="672" height="204" key="GridCell.Tab.0.bottom" timestamp="1589716371694">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
