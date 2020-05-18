@@ -34,7 +34,6 @@ public class VyTrak_Vehicle_Odometer extends TestBase{
 
         Sleep.waitSecond(5);
 
-// push branch 03  update again
 
 
 
