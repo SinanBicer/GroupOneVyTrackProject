@@ -27,9 +27,24 @@ public class VyTrak_Vehicle_Odometer extends TestBase{
         Odo_Cre_Page.OdoValue.sendKeys("1000");
         Odo_Cre_Page.Date.click();
 
+        // TEST SINAN CODE
+
         Sleep.waitSecond(5);
 
+
+
+
+
+        //test
+
+        // this is from US-11
+
+
+        System.out.println("This is added by Ahmet");
+
         // mustafa branch push
+
+
 
 
     }
